@@ -262,7 +262,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [D'Alì]
+  last_name: [D’Alì]
   first_name: [Alessio]
 
   style: apa
