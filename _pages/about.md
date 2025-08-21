@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
@@ -32,6 +32,16 @@ latest_posts:
 
 Hi there! 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Since January 11, 2024 I am a *Ricercatore a tempo determinato di tipo B* (tenure-track researcher) in the [Department of Mathematics](https://www.mate.polimi.it/) of [Politecnico di Milano](https://www.polimi.it/), Italy. I am part of the [research group in Geometry, Algebra and their Applications](https://www.geometry-algebra.polimi.it/).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research mostly revolves around topics in commutative algebra, combinatorics, discrete geometry. I am particularly happy when these worlds come together in unexpected ways!
+
+Some keywords:
+* Koszul algebras
+* graded free resolutions of modules and (algebraic) Betti numbers
+* initial ideals and Gröbner bases
+* simplicial complexes and posets
+* homology spheres, flag complexes, Charney-Davis' and Gal's conjectures
+* combinatorially defined lattice polytopes (e.g., symmetric edge polytopes)
+* equivariant Ehrhart and Hilbert series
+* matroids
