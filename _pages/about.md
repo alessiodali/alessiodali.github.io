@@ -35,6 +35,8 @@ Hi there!
 
 Since January 11, 2024 I am a *Ricercatore a tempo determinato di tipo B* (tenure-track researcher) in the [Department of Mathematics](https://www.mate.polimi.it/) of [Politecnico di Milano](https://www.polimi.it/), Italy. I am part of the [research group in Geometry, Algebra and their Applications](https://www.geometry-algebra.polimi.it/).
 
+[Here](/assets/pdf/CVsite.pdf) is my cv.
+
 My research mostly revolves around topics in commutative algebra, combinatorics, discrete geometry. I am particularly happy when these worlds come together in unexpected ways!
 
 Some keywords:

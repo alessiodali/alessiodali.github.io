@@ -1,21 +1,18 @@
 - title: Current courses
   type: time_table
   contents:
-    - title: Analisi e Geometria 1
-      institution: Politecnico di Milano
+    - title: 081360 - Analisi e Geometria 1
+      institution: Politecnico di Milano<br>Laurea Triennale in Ingegneria Aerospaziale, Energetica, Meccanica
       year: A.A. 2025/26, I sem.
-      description:
-        - Description 1.
-        - title: Description 2.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Topologia Algebrica Computazionale (con <a href='http://www.paololella.it/'>Paolo Lella</a>)
-      institution: Politecnico di Milano
+      description: 
+        - <a href='https://www11.ceda.polimi.it/schedaincarico/schedaincarico/controller/scheda_pubblica/SchedaPublic.do?&evn_default=evento&c_classe=865292'>Scheda del corso</a>.
+        - "[prossimamente] Pagina Webeep del corso."  
+    - title: 062277 - Topologia Algebrica Computazionale (con <a href='http://www.paololella.it/'>Paolo Lella</a>)
+      institution: Politecnico di Milano<br>Laurea Magistrale in Ingegneria Matematica
       year: A.A. 2025/26, II sem.
       description:
-        - Description 1.
-        - Description 2.
+        - <a href='https://www11.ceda.polimi.it/schedaincarico/schedaincarico/controller/scheda_pubblica/SchedaPublic.do?&evn_default=evento&c_classe=864055'>Scheda del corso</a>.
+        - "[prossimamente] Pagina Webeep del corso."
 
 - title: Past courses at Polimi
   type: time_table
