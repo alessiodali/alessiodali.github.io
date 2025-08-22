@@ -1,14 +1,15 @@
 {
   "basics": {
     "surname": "D'Alì",
-    "first name": "Alessio Maria",
-    "label": "Tenure-track Assistant Professor (RTD-B)",
+    "first name": "Alessio (full name: Alessio Maria)",
+    "nationality": "Italian",
+    "label": "Tenure-track researcher (RTD-B)",
     "image": "",
     "email": "alessio[DOT]dali[AT]polimi[DOT]it",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
+    "phone": "(+39 02 2399) 4560",
+    "url": "https://alessiodali.github.io",
     "location": {
-      "address": "2712 Broadway St",
+      "address": ".",
       "postalCode": "CA 94115",
       "city": "San Francisco",
       "countryCode": "US",
@@ -24,13 +25,46 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Politecnico di Milano, Italy",
+      "position": "Ricercatore a tempo determinato di tipo B",
+      "startDate": "2024-01-11",
+      "endDate": ""
+    },
+    {
+      "name": "Politecnico di Milano, Italy",
+      "position": "Ricercatore a tempo determinato di tipo A",
+      "startDate": "2022-09-01",
+      "endDate": "2024-01-10"
+    },
+    {
+      "name": "Universität Osnabrück, Germany",
+      "position": "Postdoctoral researcher",
+      "startDate": "2020-11-01",
+      "endDate": "2022-08-31"
+    },
+    {
+      "name": "University of Warwick, UK",
+      "position": "Research Fellow",
+      "startDate": "2018-09-01",
+      "endDate": "2020-10-31"
+    },
+    {
+      "name": "Max-Planck-Institut für Mathematik in den Naturwissenschaften, Leipzig, Germany",
+      "position": "Postdoctoral researcher",
+      "startDate": "2017-06-01",
+      "endDate": "2018-08-31"
+    },
+    {
+      "name": "Université de Fribourg, Switzerland",
+      "position": "Visiting Ph.D. student",
+      "startDate": "2016-09-01",
+      "endDate": "2017-05-31"
+    },
+    {
+      "name": "Universitetet i Bergen, Norway",
+      "position": "Visiting Ph.D. student",
+      "startDate": "2015-04-15",
+      "endDate": "2015-11-15"
     }
   ],
   "volunteer": [

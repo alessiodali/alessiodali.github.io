@@ -1,0 +1,84 @@
+- title: Current courses
+  type: time_table
+  contents:
+    - title: Analisi e Geometria 1
+      institution: Politecnico di Milano
+      year: A.A. 2025/26, I sem.
+      description:
+        - Description 1.
+        - title: Description 2.
+          contents:
+            - Sub-description 1.
+            - Sub-description 2.
+    - title: Topologia Algebrica Computazionale (con <a href='http://www.paololella.it/'>Paolo Lella</a>)
+      institution: Politecnico di Milano
+      year: A.A. 2025/26, II sem.
+      description:
+        - Description 1.
+        - Description 2.
+
+- title: Past courses at Polimi
+  type: time_table
+  contents:
+    - title: PhD
+      institution: University of Zurich, Zurich, Switzerland
+      year: 1905
+      description:
+        - Description 1.
+        - Description 2.
+        - title: Description 3.
+          contents:
+            - Sub-description 1.
+            - Sub-description 2.
+    - title: Federal teaching diploma
+      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
+      year: "10.2021-02.2022"
+      description:
+        - Description 1.
+
+- title: Past courses at other institutions
+  type: time_table
+  contents:
+    - title: PhD
+      institution: University of Zurich, Zurich, Switzerland
+      year: 1905
+      description:
+        - Description 1.
+        - Description 2.
+        - title: Description 3.
+          contents:
+            - Sub-description 1.
+            - Sub-description 2.
+    - title: Federal teaching diploma
+      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
+      year: "10.2021-02.2022"
+      description:
+        - Description 1.
+    - title: Federal teaching diploma
+      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
+      year: "10.2021-01.2022"
+      description:
+        - Description 1.
+    - title: Federal teaching diploma
+      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
+      year: "08.2021"
+      description:
+        - Description 1.
+    - title: Federal teaching diploma
+      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
+      year: "04.2021-07.2021"
+      description:
+        - Description 1.
+    - title: Federal teaching diploma
+      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
+      year: "10.2020-12.2020"
+      description:
+        - Description 1.
+    - title: Federal teaching diploma
+      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
+      year: "06.2020"
+      description:
+        - Description 1.
+
+
+

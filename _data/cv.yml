@@ -1,12 +1,18 @@
-- title: General Information
+- title: Personal data
   type: map
   contents:
-    - name: Full Name
-      value: Alessio Maria D'Alì
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+    - name: Surname
+      value: D'Alì
+    - name: First name
+      value: "Alessio (full name: Alessio Maria)"
+    - name: Nationality
+      value: Italian
+    - name: Email
+      value: "alessio[DOT]dali[AT]polimi[DOT]it"
+    - name: Phone
+      value: "(+39 02 2399) 4560"
+    - name: URL
+      value: <a href='https://alessiodali.github.io'>https://alessiodali.github.io</a>
 
 - title: Education
   type: time_table

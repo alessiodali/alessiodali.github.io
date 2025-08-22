@@ -12,7 +12,8 @@ profile:
     <p>Politecnico di Milano</p>
     <p>Dipartimento di Matematica</p>
     <p>Ed. 14 (Nave), ufficio 227</p>
-    <p>Campus Città Studi</p>
+    <p>Via Bonardi 9</p>
+    <p>20133 Milano, Italy</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
