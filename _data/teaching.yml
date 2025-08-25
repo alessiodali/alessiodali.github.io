@@ -2,80 +2,115 @@
   type: time_table
   contents:
     - title: 081360 - Analisi e Geometria 1
-      institution: Politecnico di Milano<br>Laurea Triennale in Ingegneria Aerospaziale, Energetica, Meccanica
+      institution: Politecnico di Milano 🇮🇹<br>Laurea Triennale in Ingegneria Aerospaziale, Energetica, Meccanica<br>Scaglione RAZ-STR
       year: A.A. 2025/26, I sem.
       description: 
         - <a href='https://www11.ceda.polimi.it/schedaincarico/schedaincarico/controller/scheda_pubblica/SchedaPublic.do?&evn_default=evento&c_classe=865292'>Scheda del corso</a>.
         - "[prossimamente] Pagina WeBeep del corso."  
     - title: 062277 - Topologia Algebrica Computazionale (con <a href='http://www.paololella.it/'>Paolo Lella</a>)
-      institution: Politecnico di Milano<br>Laurea Magistrale in Ingegneria Matematica
+      institution: Politecnico di Milano 🇮🇹<br>Laurea Magistrale in Ingegneria Matematica
       year: A.A. 2025/26, II sem.
       description:
         - <a href='https://www11.ceda.polimi.it/schedaincarico/schedaincarico/controller/scheda_pubblica/SchedaPublic.do?&evn_default=evento&c_classe=864055'>Scheda del corso</a>.
-        - "[prossimamente] Pagina WeBeep del corso."
+        - "[prossimamente] Pagina WeBeep del corso." 
 
-- title: Past courses at Polimi
+- title: Past courses (lecturer)
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Analisi e Geometria 1 (Calculus and Geometry 1)
+      institution: >
+        Politecnico di Milano 🇮🇹<br>
+        Laurea Triennale in Ingegneria Aerospaziale, Energetica, Meccanica<br>
+        2024/25 (I sem.), 2023/24 (I sem.)
+    - title: Topologia Algebrica Computazionale (Computational Algebraic Topology)<br>with <a href='http://www.paololella.it/'>P. Lella</a>
+      institution: 
+        Politecnico di Milano 🇮🇹<br>Laurea Magistrale in Ingegneria Matematica<br>
+        2024/25 (I sem.)
+    - title: 
+        Matematica discreta e applicazioni (Discrete Mathematics and Applications)<br>
+        [short course, external guest] with A. Conca, E. Delucchi, U. Fugacci
+      institution: 
+        Università di Genova 🇮🇹<br>
+        Laurea Triennale e Laurea Magistrale in Matematica<br>
+        2023/24 (II sem.), 2022/23 (II sem.)
+    - title: 
+        Analisi Matematica e Geometria (Calculus and Geometry)
+      institution: 
+        Politecnico di Milano 🇮🇹<br>
+        Laurea Triennale in Ingegneria per l'Ambiente e il Territorio<br>
+        2022/23 (I sem.)
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: "10.2021-02.2022"
+        I was responsible for the Geometry section.
+    - title: 
+        Gröbner Bases in Applied Algebra<br>
+        [crash course]
+      institution: 
+        Universität Osnabrück 🇩🇪<br>
+        2020/21 (Summer semester)
+    - title: 
+        Matematica e Informatica (Mathematics and Computer Science)
+      institution: 
+        Università di Genova 🇮🇹<br>
+        Laurea Triennale in Biotecnologie<br>
+        2020/21 (I sem.)
       description:
-        - Description 1.
+        I was responsible for the Mathematics section.
+    - title: 
+        Geometria e applicazioni all’analisi dei grafi (Geometry and Applications to Graph Analysis)<br>
+        [short course, external guest] with U. Fugacci
+      institution: 
+        IANUA - Scuola Superiore dell'Università di Genova 🇮🇹<br>
+        2019/20 (II sem.)
 
-- title: Past courses at other institutions
+
+- title: Past courses (teaching assistant)
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: 
+        Mathematische Grundlagen der Datenanalyse (Mathematical Foundations of Data Analysis)
+      institution: 
+        Universität Osnabrück 🇩🇪<br>
+        2021/22 (Summer semester)
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: "10.2021-02.2022"
+        Course taught by Paul Breiding.
+    - title: 
+        Zahlentheorie (Number Theory)
+      institution: 
+        Universität Osnabrück 🇩🇪<br>
+        2021/22 (Winter semester)
       description:
-        - Description 1.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: "10.2021-01.2022"
+        Course taught by Markus Spitzweck.
+    - title: 
+        Diskrete Mathematik (Discrete Mathematics)
+      institution: 
+        Universität Osnabrück 🇩🇪<br>
+        2020/21 (Summer semester)
       description:
-        - Description 1.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: "08.2021"
-      description:
-        - Description 1.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: "04.2021-07.2021"
-      description:
-        - Description 1.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: "10.2020-12.2020"
-      description:
-        - Description 1.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: "06.2020"
-      description:
-        - Description 1.
+        Course taught by Martina Juhnke-Kubitzke.<br>
+        I was responsible for the weekly <i>Fragestunde</i> (question time).
 
+- title: Miscellaneous
+  type: time_table
+  contents:       
+    - title: 
+        Hyperplane Arrangements
+      year: "student seminar" 
+      institution: 
+        Universität Osnabrück 🇩🇪<br>
+        2021/22 (Summer semester)
+      description:
+        >
+        I was the organizer and grader of this seminar by and for Mathematics students.<br>
+        We followed the 2006 notes by Richard P. Stanley (click <a href='https://math.mit.edu/~rstan/arrangements/arr.html'>here</a> for the notes and a set of errata).
+    - title: 
+        Elemente der Mathematik (Elements of Mathematics)<br>
+        with H. Döring
+      year: "student seminar"
+      institution: 
+        Universität Osnabrück 🇩🇪<br>
+        2021/22 (Winter semester)
+      description:
+        >
+        I was the joint organizer and grader of this seminar by and for BEU students (i.e., future Mathematics teachers).
 
 

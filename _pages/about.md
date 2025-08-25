@@ -43,8 +43,11 @@ Some keywords:
 * Koszul algebras
 * graded free resolutions of modules and (algebraic) Betti numbers
 * initial ideals and Gröbner bases
+* monomial and toric ideals
 * simplicial complexes and posets
 * homology spheres, flag complexes, Charney-Davis' and Gal's conjectures
 * combinatorially defined lattice polytopes (e.g., symmetric edge polytopes)
 * equivariant Ehrhart and Hilbert series
 * matroids
+
+<br>
