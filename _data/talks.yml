@@ -13,9 +13,10 @@
         Fields Institute, Toronto 🇨🇦<br>
         Commutative Algebra and Applications Seminar
       description: 
-        "<i><a href='https://www.youtube.com/watch?v=VCIHawzl6tE'>How to count wisely: f-vectors, h-vectors, h*-vectors, gamma-vectors and beyond</a></i> 
-        (introductory/survey talk) and <i><a href='https://www.youtube.com/watch?v=Br_dZCZPhvk'>Symmetry counts: an introduction to 
-        equivariant Hilbert and Ehrhart series</a></i> (research talk). Click on the titles to see the YouTube videos!"
+        "Introductory/survey talk: <i><a href='https://www.youtube.com/watch?v=VCIHawzl6tE'>How to count wisely: f-vectors, h-vectors, h*-vectors, gamma-vectors and beyond</a></i>.<br> 
+        Research talk: <i><a href='https://www.youtube.com/watch?v=Br_dZCZPhvk'>Symmetry counts: an introduction to 
+        equivariant Hilbert and Ehrhart series</a></i>.<br>
+        Click on the titles to see the YouTube videos of the talks!"
 
     - year: February 25, 2025
       title: 
@@ -100,62 +101,211 @@
   type: time_table
   contents:
     - year: September 8, 2022
-      title: Università di Catania 🇮🇹
+      title: 
+        Università di Catania 🇮🇹<br>
+        Workshop on Commutative Algebra and Algebraic Geometry
+
+      description:
+        "Invited talk: <i>An introduction to symmetric edge polytopes and their gamma-vector</i>."
+
     - year: June 27, 2022
-      title: SUPSI, Locarno 🇨🇭
+      title: 
+        SUPSI, Locarno 🇨🇭<br>
+        Arrangements in Ticino workshop
+
+      description:
+        "Invited talk: <i>Symmetric edge polytopes and their gamma-vector</i>."  
+
     - year: June 16, 2022
-      title: Universität Osnabrück 🇩🇪
+      title: 
+        Universität Osnabrück 🇩🇪<br>
+        75+80=155 Years of Commutative Algebra workshop
+
+      description:
+        "Invited talk: <i>Koszul Gorenstein rings from flag Cohen-Macaulay simplicial complexes</i>."   
+
     - year: May 15, 2022
-      title: AMS Spring Western Sectional Meeting 🇺🇸🌐
+      title: 
+        AMS Spring Western Sectional Meeting (online) 🇺🇸🌐<br>
+        Special Session on Algebraic, Combinatorial, and Optimization Methods for Kuramoto and Power-flow Equations
+
+      description:
+        "Invited talk: <i>On the gamma-vector of symmetric edge polytopes</i>."  
+
     - year: May 2, 2022
-      title: Stockholms universitet 🇸🇪🌐
+      title: 
+        Stockholms universitet 🇸🇪🌐<br>
+        Commutative Algebra online seminar
+
+      description:
+        "<i>On the Koszul property for quadratic Artinian Gorenstein graded rings</i>."
+
 
 - title: 2021
   type: time_table
   contents:
     - year: December 13, 2021
-      title: Universität Osnabrück 🇩🇪
+      title: 
+        Universität Osnabrück 🇩🇪<br>
+        joint Algebra and Discrete Mathematics / Applied Algebra and Data Analysis seminar
+      
+      description:
+        "<i>Symmetric edge polytopes and their gamma-vector</i>."  
+
     - year: April 15, 2021
-      title: Freie Universität Berlin 🇩🇪🌐
+      title: 
+        Freie Universität Berlin 🇩🇪🌐<br>
+        Discrete Geometry online seminar
+      
+      description:
+        "<i>Koszul Gorenstein algebras from simplicial complexes</i>."
 
 - title: "2020 and earlier"
   type: time_table
   contents:
     - year: June 29, 2020
-      title: Università di Genova 🇮🇹🌐
+      title: 
+        Università di Genova 🇮🇹🌐<br>
+        Commutative Algebra reading course
+      
+      description:
+        "Online guest talk: <i>Koszul Gorenstein algebras and a conjecture by Charney and Davis</i>."
+
     - year: December 4, 2019
-      title: Freie Universität Berlin 🇩🇪
+      title: 
+        Freie Universität Berlin 🇩🇪<br>
+        Einstein Workshop on Polytopes and Algebraic Geometry
+
+      description:
+        "<i>Symmetric edge polytopes and their applications</i>."
+
     - year: September 13, 2019
-      title: Università di Genova 🇮🇹
+      title: 
+        Università di Genova 🇮🇹<br>
+        Algebraic Combinatorics in Genova workshop
+
+      description:
+        "Invited talk: <i>Symmetric edge polytopes in combinatorics and beyond</i>."
+
     - year: August 22, 2019
-      title: University of Swansea 🏴󠁧󠁢󠁷󠁬󠁳󠁿🇬🇧
+      title: 
+        University of Swansea 🏴󠁧󠁢󠁷󠁬󠁳󠁿🇬🇧<br>
+        9th Applied Algebra and Geometry network meeting
+
+      description:
+        "Invited talk: <i>Symmetric edge polytopes and their applications</i>."
+
     - year: July 17, 2019
-      title: Université de Neuchâtel 🇨🇭
+      title: 
+        Université de Neuchâtel 🇨🇭<br>
+        Algebra meets Combinatorics in Neuchâtel workshop
+
+      description:
+        "Invited talk: <i>Symmetric edge polytopes in combinatorics and beyond</i>."
+
     - year: July 9, 2019
-      title: Universität Bern 🇨🇭
+      title: 
+        Universität Bern 🇨🇭<br>
+        SIAM conference on Applied Algebraic Geometry
+
+      description:
+        "Invited talk: <i>Group actions on generalized Stanley-Reisner rings/i>."
+
     - year: May 20, 2019
-      title: University of York 🏴󠁧󠁢󠁥󠁮󠁧󠁿🇬🇧
+      title: 
+        University of York 🏴󠁧󠁢󠁥󠁮󠁧󠁿🇬🇧<br>
+        Algebra seminar
+
+      description:
+        "<i>Generalized Stanley-Reisner rings and translative group actions</i>."
+        
     - year: November 6, 2018
-      title: University of Warwick 🏴󠁧󠁢󠁥󠁮󠁧󠁿🇬🇧
+      title: 
+        University of Warwick 🏴󠁧󠁢󠁥󠁮󠁧󠁿🇬🇧<br>
+        Algebraic Geometry seminar
+
+      description:
+        "<i>Generalized Stanley-Reisner rings and translative group actions</i>."
+
     - year: May 31, 2018
-      title: Università di Genova 🇮🇹
+      title: 
+        Università di Genova 🇮🇹<br>
+        Giornate di Geometria Algebrica ed Argomenti Correlati XIV workshop
+
+      description:
+        "<i>Anelli di Stanley-Reisner generalizzati e azioni di gruppo traslative</i>. In Italian."
+
     - year: March 23, 2018
-      title: Universität Osnabrück 🇩🇪
+      title: 
+        Universität Osnabrück 🇩🇪<br>
+        Graduate Student Meeting on Applied Algebra and Combinatorics
+
+      description:
+        "<i>Translative group actions on simplicial posets</i>."
+
     - year: December 18, 2017
-      title: Technische Universität Berlin 🇩🇪
+      title: 
+        Technische Universität Berlin 🇩🇪<br>
+        Berlin-Leipzig Seminar on Algebra, Geometry and Combinatorics
+
+      description:
+        "<i>What is... a gaussoid?</i>"
+
     - year: April 28, 2017
-      title: Universität Bern 🇨🇭
+      title: 
+        Universität Bern 🇨🇭<br>
+        Bern-Fribourg-Neuchâtel InterCity Seminar
+
+      description:
+        "<i>Resolutions of letterplace and co-letterplace ideals</i>."
+
     - year: February 23, 2017
-      title: Università di Genova 🇮🇹
+      title: 
+        Università di Genova 🇮🇹<br>
+        Genova-Torino-Milano Seminar
+
+      description:
+        "<i>Resolutions of letterplace and co-letterplace ideals</i>."
+
     - year: August 22, 2016
-      title: Moieciu de Sus 🇷🇴
+      title: 
+        Moieciu de Sus 🇷🇴<br>
+        EMS Summer School on Multigraded Algebra and Applications<br>
+        24th National School on Algebra
+
+      description:
+        "<i>Resolutions of letterplace and co-letterplace ideals</i>."
+
     - year: October 9, 2015
-      title: Universität Osnabrück 🇩🇪
+      title: 
+        Universität Osnabrück 🇩🇪<br>
+        Combinatorial and Experimental Methods in Commutative Algebra and Related Fields workshop
+
+      description:
+        "<i>Deviations of graded algebras</i>."
+
     - year: September 28, 2015
-      title: Universitetet i Bergen 🇳🇴
+      title: 
+        Universitetet i Bergen 🇳🇴<br>
+        Algebra and Geometry Seminar
+
+      description:
+        "<i>Deviations of graded algebras</i>."
+
     - year: April 22, 2015
-      title: Universitetet i Bergen 🇳🇴
+      title: 
+        Universitetet i Bergen 🇳🇴<br>
+        Algebra and Geometry Seminar
+
+      description:
+        "<i>Commutative algebra on graphs</i>."
+
     - year: March 6, 2013
-      title: Technische Universiteit Eindhoven 🇳🇱
+      title: 
+        Technische Universiteit Eindhoven 🇳🇱<br>
+        Discrete Math Seminar
+
+      description:
+        "Survey talk about Koszul algebras."
 
     
