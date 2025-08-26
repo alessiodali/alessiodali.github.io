@@ -2,44 +2,99 @@
   type: time_table
   contents:
     - year: September 24, 2025
-      title: Combinatorial Commutative Algebra in Canada (CCAC) virtual seminar 🇨🇦
+      title: Combinatorial Commutative Algebra in Canada (CCAC) virtual seminar 🇨🇦🌐
       description: TBA
 
 - title: 2025
   type: time_table
   contents:
     - year: May 15, 2025
-      title: Fields Institute, Toronto 🇨🇦
+      title: 
+        Fields Institute, Toronto 🇨🇦<br>
+        Commutative Algebra and Applications Seminar
+      description: 
+        "<i><a href='https://www.youtube.com/watch?v=VCIHawzl6tE'>How to count wisely: f-vectors, h-vectors, h*-vectors, gamma-vectors and beyond</a></i> 
+        (introductory/survey talk) and <i><a href='https://www.youtube.com/watch?v=Br_dZCZPhvk'>Symmetry counts: an introduction to 
+        equivariant Hilbert and Ehrhart series</a></i> (research talk). Click on the titles to see the YouTube videos!"
+
     - year: February 25, 2025
-      title: Dobbiaco/Toblach 🇮🇹
+      title: 
+        Dobbiaco/Toblach 🇮🇹<br>
+        7th Winter School in Geometry, Algebra and Combinatorics of Moduli Spaces and Configurations
+      description:
+        "Invited talk: <i>Symmetry counts: an introduction to equivariant Hilbert and Ehrhart series</i>."
+
     - year: February 20, 2025
-      title: Università di Milano Bicocca 🇮🇹
+      title: 
+        Università di Milano Bicocca 🇮🇹<br>
+        Geometry Seminar
+      description:
+        "<i>Symmetry counts: an introduction to equivariant Hilbert and Ehrhart series</i>."
     - year: February 18, 2025
-      title: Università di Bologna 🇮🇹
+      title: 
+        Università di Bologna 🇮🇹<br>
+        Algebra and Geometry Seminar
+      description:
+        "<i>Symmetry counts: an introduction to equivariant Hilbert and Ehrhart series</i>."
 
 - title: 2024
   type: time_table
   contents:
     - year: July 26, 2024
-      title: Università di Palermo 🇮🇹
+      title: 
+        "Università di Palermo 🇮🇹<br>
+        2nd AMS-UMI joint meeting<br>
+        Section B20: <i>Recent Developments in Commutative Algebra</i>"
+      description:
+        "Invited talk: <i>On strongly Koszul algebras and tidy Gröbner bases</i>."
     - year: July 26, 2024
-      title: Università di Palermo 🇮🇹
+      title:
+        "Università di Palermo 🇮🇹<br>
+        2nd AMS-UMI joint meeting<br>
+        Section B16: <i>Discrete and Combinatorial Homotopy, Theory and Applications</i>"
+      description:
+        "Invited talk: <i>Symmetry counts: an introduction to equivariant Hilbert and Ehrhart series</i>."
     - year: March 27, 2024
-      title: Università di Pisa 🇮🇹
+      title: 
+        Università di Pisa 🇮🇹<br>
+        Seminar on Combinatorics, Lie Theory, and Topology
+      description:
+        "<i>Symmetry counts: an introduction to equivariant Hilbert and Ehrhart series</i>."
     - year: February 1, 2024
-      title: SUPSI, Lugano 🇨🇭
+      title: 
+        SUPSI, Lugano 🇨🇭<br>
+        Bern-Konstanz-Lugano-Neuchâtel InterCity Seminar
+      description:
+        "<i>On a generalization of symmetric edge polytopes to regular matroids</i>."
 
 - title: 2023
   type: time_table
   contents:
     - year: December 7, 2023
-      title: Max-Planck-Institut Leipzig 🇩🇪
+      title: 
+        Max-Planck-Institut Leipzig 🇩🇪<br>
+        Seminar on Nonlinear Algebra
+      description:
+        "<i>On a generalization of symmetric edge polytopes to regular matroids</i>."
     - year: October 31, 2023
-      title: Università di Genova 🇮🇹
+      title: 
+        Università di Genova 🇮🇹<br>
+        Algebra & Geometry Seminar
+      description:
+        "<i>On a generalization of symmetric edge polytopes to regular matroids</i>."
     - year: September 5, 2023
-      title: Università di Pisa 🇮🇹
+      title: 
+        "Università di Pisa 🇮🇹<br>
+        XXII Congresso UMI (Italian Mathematical Union)
+        Section S14: <i>Algebra</i>"
+      description:
+        "<i>Sulla proprietà di Koszul per algebre artiniane Gorenstein</i>. In Italian."
     - year: February 22, 2023
-      title: Kwansei Gakuin University 🇯🇵
+      title: 
+        Kwansei Gakuin University 🇯🇵<br>
+        Combinatorial and Algebraic Aspects on Lattice Polytopes workshop
+      description:
+        "Invited talk: <i>On a generalization of symmetric edge polytopes to regular matroids</i>."
 
 - title: 2022
   type: time_table
@@ -51,9 +106,9 @@
     - year: June 16, 2022
       title: Universität Osnabrück 🇩🇪
     - year: May 15, 2022
-      title: AMS Spring Western Sectional Meeting 🇺🇸
+      title: AMS Spring Western Sectional Meeting 🇺🇸🌐
     - year: May 2, 2022
-      title: Stockholms universitet 🇸🇪
+      title: Stockholms universitet 🇸🇪🌐
 
 - title: 2021
   type: time_table
@@ -61,13 +116,13 @@
     - year: December 13, 2021
       title: Universität Osnabrück 🇩🇪
     - year: April 15, 2021
-      title: Freie Universität Berlin 🇩🇪
+      title: Freie Universität Berlin 🇩🇪🌐
 
 - title: "2020 and earlier"
   type: time_table
   contents:
     - year: June 29, 2020
-      title: Università di Genova 🇮🇹
+      title: Università di Genova 🇮🇹🌐
     - year: December 4, 2019
       title: Freie Universität Berlin 🇩🇪
     - year: September 13, 2019

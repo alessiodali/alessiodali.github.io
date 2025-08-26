@@ -1,34 +1,68 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"delucchi":
+  - firstname: ["Emanuele", "E."]
+    url: "http://www.maestran.ch/math/"
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"higashitani":
+  - firstname: ["Akihiro", "A."]
+    url: "https://sv2-mat.ist.osaka-u.ac.jp/~higashitani/index.html"
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"juhnke-kubitzke":
+  - firstname: ["Martina", "M."]
+    url: "https://tina.juhnix.net/"
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"juhnke":
+  - firstname: ["Martina", "M."]
+    url: "https://tina.juhnix.net/"
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+# "bach":
+#   - firstname: ["Johann Sebastian", "J. S."]
+#     url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+#
+#   - firstname: ["Carl Philipp Emanuel", "C. P. E."]
+#     url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"sturmfels":
+  - firstname: ["Bernd", "B."]
+    url: "https://math.berkeley.edu/~bernd/"
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"venturello":
+  - firstname: ["Lorenzo", "L."]
+    url: "https://sites.google.com/view/lorenzo-venturello/home"
 
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"floystad":
+  - firstname: ["Gunnar", "G."]
+    url: "https://www4.uib.no/en/find-employees/Gunnar.Fl%C3%B8ystad"
 
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"sammartano":
+  - firstname: ["Alessio", "A."]
+    url: "https://sites.google.com/site/alessiosammartano/"
+
+"montano":
+  - firstname: ["Jonathan", "J."]
+    url: "https://j-montano.github.io/"
+
+"grifo":
+  - firstname: ["Eloísa", "Eloisa", "E."]
+    url: "https://eloisagrifo.github.io/"
+
+"boocher":
+  - firstname: ["Adam", "A."]
+    url: "https://aboocher.github.io/"
+
+"boege":
+  - firstname: ["Tobias", "T."]
+    url: "https://taboege.de/"
+
+"kahle":
+  - firstname: ["Thomas", "T."]
+    url: "https://thomas-kahle.de/"
+
+"borzi":
+  - firstname: ["Alessio", "A."]
+    url: "https://alessioborzi.github.io/"
+
+"michalek":
+  - firstname: ["Mateusz", "M."]
+    url: "https://www.math.uni-konstanz.de/~michalek/"
+
+    
