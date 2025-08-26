@@ -29,9 +29,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-**SITE CURRENTLY UNDER CONSTRUCTION!**
-
-Hi there! 
+Hi there!
 
 Since January 11, 2024 I am a *Ricercatore a tempo determinato di tipo B* (tenure-track researcher) in the [Department of Mathematics](https://www.mate.polimi.it/) of [Politecnico di Milano](https://www.polimi.it/), Italy. I am part of the [research group in Geometry, Algebra and their Applications](https://www.geometry-algebra.polimi.it/).
 
