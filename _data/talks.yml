@@ -1,43 +1,51 @@
-- title: Upcoming
-  type: time_table
-  contents:
-    - year: September 24, 2025
-      title: Combinatorial Commutative Algebra in Canada (CCAC) virtual seminar 🇨🇦🌐
-      description: 
-        "<i>Symmetry counts: an introduction to equivariant Hilbert and Ehrhart series</i>.<br>
-        <a href='https://mcmaster.zoom.us/j/98609465046'>Zoom link</a>. The talk will start at 11am Eastern, i.e., 5pm Central European Time."
-
 - title: 2025
   type: time_table
   contents:
-    - year: May 15, 2025
-      title: 
+  - year: December 4, 2025
+    title: Università di Genova 🇮🇹<br>
+           Algebra & Geometry Seminar
+    description: 
+        "<i>Symmetry counts: an introduction to equivariant Hilbert and Ehrhart series</i>."
+
+  - year: November 17, 2025
+    title: Università di Pisa 🇮🇹<br>
+           INcontro TRIangolare di Combinatoria Algebrica e TOpologica (INTRICATO) 2025
+    description: 
+        "<i>Order polytopes of graded posets are gamma-effective</i>."
+
+  - year: September 24, 2025
+    title: Combinatorial Commutative Algebra in Canada (CCAC) virtual seminar 🇨🇦🌐
+    description: 
+        "<i>Symmetry counts: an introduction to equivariant Hilbert and Ehrhart series</i>."
+
+  - year: May 15, 2025
+    title: 
         Fields Institute, Toronto 🇨🇦<br>
         Commutative Algebra and Applications Seminar
-      description: 
+    description: 
         "Introductory/survey talk: <i><a href='https://www.youtube.com/watch?v=VCIHawzl6tE'>How to count wisely: f-vectors, h-vectors, h*-vectors, gamma-vectors and beyond</a></i>.<br> 
         Research talk: <i><a href='https://www.youtube.com/watch?v=Br_dZCZPhvk'>Symmetry counts: an introduction to 
         equivariant Hilbert and Ehrhart series</a></i>.<br>
         Click on the titles to see the YouTube videos of the talks!"
 
-    - year: February 25, 2025
-      title: 
+  - year: February 25, 2025
+    title: 
         Dobbiaco/Toblach 🇮🇹<br>
         7th Winter School in Geometry, Algebra and Combinatorics of Moduli Spaces and Configurations
-      description:
+    description:
         "Invited talk: <i>Symmetry counts: an introduction to equivariant Hilbert and Ehrhart series</i>."
 
-    - year: February 20, 2025
-      title: 
+  - year: February 20, 2025
+    title: 
         Università di Milano Bicocca 🇮🇹<br>
         Geometry Seminar
-      description:
+    description:
         "<i>Symmetry counts: an introduction to equivariant Hilbert and Ehrhart series</i>."
-    - year: February 18, 2025
-      title: 
+  - year: February 18, 2025
+    title: 
         Università di Bologna 🇮🇹<br>
         Algebra and Geometry Seminar
-      description:
+    description:
         "<i>Symmetry counts: an introduction to equivariant Hilbert and Ehrhart series</i>."
 
 - title: 2024
