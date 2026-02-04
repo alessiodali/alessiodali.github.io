@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Tenure-track researcher in Mathematics
+subtitle: Associate Professor in Mathematics
 
 profile:
   align: right
@@ -31,7 +31,7 @@ latest_posts:
 
 Hi there!
 
-Since January 11, 2024 I am a *Ricercatore a tempo determinato di tipo B* (tenure-track researcher) in the [Department of Mathematics](https://www.mate.polimi.it/) of [Politecnico di Milano](https://www.polimi.it/), Italy. I am part of the [research group in Geometry, Algebra and their Applications](https://www.geometry-algebra.polimi.it/).
+Since February 2, 2026 I am a *Professore Associato* in the [Department of Mathematics](https://www.mate.polimi.it/) of [Politecnico di Milano](https://www.polimi.it/), Italy. I am part of the [research group in Geometry, Algebra and their Applications](https://www.geometry-algebra.polimi.it/).
 
 [Here](/assets/pdf/CVsite.pdf) is my cv.
 
