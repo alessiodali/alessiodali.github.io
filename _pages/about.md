@@ -35,7 +35,7 @@ Since February 2, 2026 I am a *Professore Associato* in the [Department of Mathe
 
 [Here](/assets/pdf/CVsite.pdf) is my cv.
 
-My research mostly revolves around topics in commutative algebra, combinatorics, discrete geometry. I am particularly happy when these worlds come together in unexpected ways!
+My research mostly revolves around topics in commutative algebra, combinatorics and discrete geometry. I am particularly happy when these worlds come together in unexpected ways!
 
 Some keywords:
 * Koszul algebras
