@@ -2,17 +2,17 @@
   type: time_table
   contents:
     - title: 081360 - Analisi e Geometria 1
-      institution: Politecnico di Milano 🇮🇹<br>Laurea Triennale in Ingegneria Aerospaziale, Energetica, Meccanica<br>Scaglione RAZ-STR
-      year: A.A. 2025/26, I sem.
+      institution: Politecnico di Milano 🇮🇹<br>Laurea Triennale in Ingegneria Aerospaziale, Energetica, Meccanica<br>Scaglione MON-RAB
+      year: A.A. 2026/27, I sem.
       description: 
-        - <a href='https://www11.ceda.polimi.it/schedaincarico/schedaincarico/controller/scheda_pubblica/SchedaPublic.do?&evn_default=evento&c_classe=865292'>Scheda del corso</a>.
-        - "<a href='https://webeep.polimi.it/course/view.php?id=20551'>Pagina WeBeep del corso</a>."  
-    - title: 062277 - Topologia Algebrica Computazionale (con <a href='http://www.paololella.it/'>Paolo Lella</a>)
-      institution: Politecnico di Milano 🇮🇹<br>Laurea Magistrale in Ingegneria Matematica
-      year: A.A. 2025/26, II sem.
+        - <a href='https://onlineservices.polimi.it/schedaincarico/schedaincarico/controller/scheda_pubblica/SchedaPublic.do?&evn_default=evento&c_classe=890372'>Scheda del corso</a>.
+        - "<a href='https://webeep.polimi.it/course/view.php?id=23211'>Pagina WeBeep del corso</a>."  
+    - title: 085903 - Logica e Algebra
+      institution: Politecnico di Milano 🇮🇹<br>Laurea Triennale in Ingegneria Informatica<br>Scaglione O-ZZZ
+      year: A.A. 2026/27, I sem.
       description:
-        - <a href='https://www11.ceda.polimi.it/schedaincarico/schedaincarico/controller/scheda_pubblica/SchedaPublic.do?&evn_default=evento&c_classe=864055'>Scheda del corso</a>.
-        - "[prossimamente] Pagina WeBeep del corso." 
+        - <a href='https://onlineservices.polimi.it/schedaincarico/schedaincarico/controller/scheda_pubblica/SchedaPublic.do?&evn_default=evento&c_classe=892287'>Scheda del corso</a>.
+        - "<a href='https://webeep.polimi.it/course/view.php?id=23216'>Pagina WeBeep del corso." 
 
 - title: Past courses (lecturer)
   type: time_table
@@ -21,11 +21,11 @@
       institution: >
         Politecnico di Milano 🇮🇹<br>
         Laurea Triennale in Ingegneria Aerospaziale, Energetica, Meccanica<br>
-        2024/25 (I sem.), 2023/24 (I sem.)
+        2025/26 (I sem.), 2024/25 (I sem.), 2023/24 (I sem.)
     - title: Topologia Algebrica Computazionale (Computational Algebraic Topology)<br>with <a href='http://www.paololella.it/'>P. Lella</a>
       institution: 
         Politecnico di Milano 🇮🇹<br>Laurea Magistrale in Ingegneria Matematica<br>
-        2024/25 (I sem.)
+        2025/26 (II sem.), 2024/25 (I sem.)
     - title: 
         Matematica discreta e applicazioni (Discrete Mathematics and Applications)<br>
         [short course, external guest] with <a href='https://rubrica.unige.it/personale/VUZDXlJr'>A. Conca</a>, <a href='http://www.maestran.ch/math/'>E. Delucchi</a>, <a href='https://fugacci.github.io/home/'>U. Fugacci</a>
